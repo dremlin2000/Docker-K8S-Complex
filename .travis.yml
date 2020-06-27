@@ -1,4 +1,4 @@
 language: generic
 import:
-  - complex-k8s/.travis.yml"
+  - complex-k8s/.travis.yml
 before_install: cd complex-k8s
