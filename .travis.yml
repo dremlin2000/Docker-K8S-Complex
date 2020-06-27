@@ -3,5 +3,3 @@ language: generic
 import:
   - source: complex-k8s/.travis.yml
     mode: deep_merge_append
-
-before_install: cd complex-k8s
