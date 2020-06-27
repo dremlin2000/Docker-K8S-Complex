@@ -11,6 +11,7 @@ function App() {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
+          <h2>New version improvement test v3!!!</h2>
           <div>
             <Route exact path="/" component={Fib}></Route>
             <Route exact path="/otherpage" component={OtherPage}></Route>
